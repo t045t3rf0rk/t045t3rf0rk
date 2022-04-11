@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @t045t3rf0rk
 - 👀 I’m interested in simple things &
-- 🌱 I’m currently learning xss
+- 🌱 I’m currently learning xss &
 - 💞️ I’m looking to collaborate on exploits
 - 📫 t0astr@protonmail.com
 
